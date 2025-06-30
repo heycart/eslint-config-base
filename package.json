@@ -1,5 +1,5 @@
 {
-  "name": "@onipanel-ag/eslint-config-base",
+  "name": "@heycart-ag/eslint-config-base",
   "version": "2.0.0",
   "description": "Common webpack configuration for several OniPanel related projects",
   "main": "index.js",
